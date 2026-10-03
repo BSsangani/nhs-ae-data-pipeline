@@ -1,0 +1,214 @@
+provider_key,org_code,provider_name,region_key,provider_type
+1,8J094,Badger Ltd,3,UTC / Other A&E
+2,AAH,Tetbury Hospital Trust Ltd,7,UTC / Other A&E
+3,AC008,Rossendale Minor Injuries Unit,5,UTC / Other A&E
+4,ACH01,Whitstable Medical Practice,6,UTC / Other A&E
+5,AD913,Beckenham Beacon Ucc,2,UTC / Other A&E
+6,AJN,Workington Health Limited,4,UTC / Other A&E
+7,AQN04,Phl Lymington Utc,6,UTC / Other A&E
+8,ARN03,Local Care Direct,4,UTC / Other A&E
+9,AXG,Wiltshire Health & Care,7,UTC / Other A&E
+10,C82009,Market Harborough Med.Ctr,3,UTC / Other A&E
+11,C82010,Oakham Medical Practice,3,UTC / Other A&E
+12,C82038,Latham House Medical Practice,3,UTC / Other A&E
+13,C83023,Sleaford Medical Group,3,UTC / Other A&E
+14,DD401,Exmouth Minor Injury Unit,7,UTC / Other A&E
+15,DT301,Herts Urgent Care (Ascots Lane),1,UTC / Other A&E
+16,G0Q0L,Barking Hospital Utc,2,UTC / Other A&E
+17,G82071,Whitstable Medical Practice,6,UTC / Other A&E
+18,K6K0R,Harold Wood Polyclinic Utc,2,UTC / Other A&E
+19,L83087,Okehampton Medical Centre,7,UTC / Other A&E
+20,NDA57,Haslemere Minor Injuries Unit,6,UTC / Other A&E
+21,NDJ,First Community Health And Care Cic,6,UTC / Other A&E
+22,NJS05,Loughborough Urgent Care Centre,3,UTC / Other A&E
+23,NL7,Assura Vertis Urgent Care Centres (Birmingham),3,UTC / Other A&E
+24,NLX,Sirona Care & Health,7,UTC / Other A&E
+25,NNF09,Bransholme Health Centre,4,UTC / Other A&E
+26,NNF16,Bridlington Hospital,4,UTC / Other A&E
+27,NNF76,The Wilberforce Health Centre,4,UTC / Other A&E
+28,NNF94,East Riding Community Hospital,4,UTC / Other A&E
+29,NNFA7,Goole & District Hospital,4,UTC / Other A&E
+30,NNJ,Dhu Health Care C.I.C,3,UTC / Other A&E
+31,NNJ07,Loughborough Urgent Care Centre,3,UTC / Other A&E
+32,NNJ0H,Llr Ea - The Merlyn Vaz Health & Social Care Centre,3,UTC / Other A&E
+33,NNJ12,Market Harborough,3,UTC / Other A&E
+34,NNJ13,Melton Mowbray,3,UTC / Other A&E
+35,NNJ14,Oadby,3,UTC / Other A&E
+36,NNJ15,Oakham,3,UTC / Other A&E
+37,NQT10,Assura Reading Llp,6,UTC / Other A&E
+38,NQT51,Station Plaza Health Centre,6,UTC / Other A&E
+39,NQT5F,Skelmersdale Walk In Centre,5,UTC / Other A&E
+40,NQT5H,Paulton Memorial Hospital,7,UTC / Other A&E
+41,NQTE4,Summerfield Urgent Care Centre,3,UTC / Other A&E
+42,NR3,Nottingham Citycare Partnership,3,UTC / Other A&E
+43,NTP11,Practice Plus Group Hospital - Southampton,6,UTC / Other A&E
+44,NTPAD,Practice Plus Group Surgical Centre - St Marys Portsmouth,6,UTC / Other A&E
+45,NTV0B,Ashford Walk-In-Centre,6,UTC / Other A&E
+46,NTV0W,Woking Walk In Centre,6,UTC / Other A&E
+47,NV693,Rossendale Miu & Ooh,5,UTC / Other A&E
+48,R0A,Manchester University Nhs Foundation Trust,5,Major A&E (Type 1)
+49,R0B,South Tyneside And Sunderland Nhs Foundation Trust,4,Major A&E (Type 1)
+50,R0D,University Hospitals Dorset Nhs Foundation Trust,7,Major A&E (Type 1)
+51,R1D,Shropshire Community Health Nhs Trust,3,UTC / Other A&E
+52,R1F,Isle Of Wight Nhs Trust,6,Major A&E (Type 1)
+53,R1H,Barts Health Nhs Trust,2,Major A&E (Type 1)
+54,R1K,London North West University Healthcare Nhs Trust,2,Major A&E (Type 1)
+55,RA2,Royal Surrey County Hospital Nhs Foundation Trust,6,Major A&E (Type 1)
+56,RA4,Yeovil District Hospital Nhs Foundation Trust,7,Major A&E (Type 1)
+57,RA7,University Hospitals Bristol And Weston Nhs Foundation Trust,7,Major A&E (Type 1)
+58,RA9,Torbay And South Devon Nhs Foundation Trust,7,Major A&E (Type 1)
+59,RAE,Bradford Teaching Hospitals Nhs Foundation Trust,4,Major A&E (Type 1)
+60,RAJ,Mid And South Essex Nhs Foundation Trust,1,Major A&E (Type 1)
+61,RAL,Royal Free London Nhs Foundation Trust,2,Major A&E (Type 1)
+62,RAN,Royal National Orthopaedic Hospital Nhs Trust,2,UTC / Other A&E
+63,RAP,North Middlesex University Hospital Nhs Trust,2,Major A&E (Type 1)
+64,RAS,The Hillingdon Hospitals Nhs Foundation Trust,2,Major A&E (Type 1)
+65,RAT,North East London Nhs Foundation Trust,2,UTC / Other A&E
+66,RAX,Kingston Hospital Nhs Foundation Trust,2,Major A&E (Type 1)
+67,RBD,Dorset County Hospital Nhs Foundation Trust,7,Major A&E (Type 1)
+68,RBK,Walsall Healthcare Nhs Trust,3,Major A&E (Type 1)
+69,RBL,Wirral University Teaching Hospital Nhs Foundation Trust,5,Major A&E (Type 1)
+70,RBN,Mersey And West Lancashire Teaching Hospitals Nhs Trust,5,Major A&E (Type 1)
+71,RBQ,Liverpool Heart And Chest Hospital Nhs Foundation Trust,5,UTC / Other A&E
+72,RBS,Alder Hey Children'S Nhs Foundation Trust,5,Major A&E (Type 1)
+73,RBT,Mid Cheshire Hospitals Nhs Foundation Trust,5,Major A&E (Type 1)
+74,RBV,The Christie Nhs Foundation Trust,5,UTC / Other A&E
+75,RC9,Bedfordshire Hospitals Nhs Foundation Trust,1,Major A&E (Type 1)
+76,RCB,York And Scarborough Teaching Hospitals Nhs Foundation Trust,4,Major A&E (Type 1)
+77,RCD,Harrogate And District Nhs Foundation Trust,4,Major A&E (Type 1)
+78,RCF,Airedale Nhs Foundation Trust,4,Major A&E (Type 1)
+79,RCU,Sheffield Children'S Nhs Foundation Trust,4,Major A&E (Type 1)
+80,RCX,"The Queen Elizabeth Hospital, King'S Lynn, Nhs Foundation Trust",1,Major A&E (Type 1)
+81,RD1,Royal United Hospitals Bath Nhs Foundation Trust,7,Major A&E (Type 1)
+82,RD8,Milton Keynes University Hospital Nhs Foundation Trust,1,Major A&E (Type 1)
+83,RDE,East Suffolk And North Essex Nhs Foundation Trust,1,Major A&E (Type 1)
+84,RDR,Sussex Community Nhs Foundation Trust,6,UTC / Other A&E
+85,RDU,Frimley Health Nhs Foundation Trust,6,Major A&E (Type 1)
+86,RDY,Dorset Healthcare University Nhs Foundation Trust,7,UTC / Other A&E
+87,REF,Royal Cornwall Hospitals Nhs Trust,7,Major A&E (Type 1)
+88,REM,Liverpool University Hospitals Nhs Foundation Trust,5,Major A&E (Type 1)
+89,REP,Liverpool Women'S Nhs Foundation Trust,5,UTC / Other A&E
+90,RET,The Walton Centre Nhs Foundation Trust,5,UTC / Other A&E
+91,RF4,"Barking, Havering And Redbridge University Hospitals Nhs Trust",2,Major A&E (Type 1)
+92,RFF,Barnsley Hospital Nhs Foundation Trust,4,Major A&E (Type 1)
+93,RFR,The Rotherham Nhs Foundation Trust,4,Major A&E (Type 1)
+94,RFS,Chesterfield Royal Hospital Nhs Foundation Trust,3,Major A&E (Type 1)
+95,RGN,North West Anglia Nhs Foundation Trust,1,Major A&E (Type 1)
+96,RGP,James Paget University Hospitals Nhs Foundation Trust,1,Major A&E (Type 1)
+97,RGR,West Suffolk Nhs Foundation Trust,1,Major A&E (Type 1)
+98,RGT,Cambridge University Hospitals Nhs Foundation Trust,1,Major A&E (Type 1)
+99,RH5,Somerset Nhs Foundation Trust,7,Major A&E (Type 1)
+100,RH8,Royal Devon University Healthcare Nhs Foundation Trust,7,Major A&E (Type 1)
+101,RHM,University Hospital Southampton Nhs Foundation Trust,6,Major A&E (Type 1)
+102,RHQ,Sheffield Teaching Hospitals Nhs Foundation Trust,4,Major A&E (Type 1)
+103,RHU,Portsmouth Hospitals University National Health Service Trust,6,Major A&E (Type 1)
+104,RHW,Royal Berkshire Nhs Foundation Trust,6,Major A&E (Type 1)
+105,RJ1,Guy'S And St Thomas' Nhs Foundation Trust,2,Major A&E (Type 1)
+106,RJ2,Lewisham And Greenwich Nhs Trust,2,Major A&E (Type 1)
+107,RJ6,Croydon Health Services Nhs Trust,2,Major A&E (Type 1)
+108,RJ7,St George'S University Hospitals Nhs Foundation Trust,2,Major A&E (Type 1)
+109,RJ8,Cornwall Partnership Nhs Foundation Trust,7,UTC / Other A&E
+110,RJC,South Warwickshire University Nhs Foundation Trust,3,Major A&E (Type 1)
+111,RJE,University Hospitals Of North Midlands Nhs Trust,3,Major A&E (Type 1)
+112,RJL,Northern Lincolnshire And Goole Nhs Foundation Trust,4,Major A&E (Type 1)
+113,RJN,East Cheshire Nhs Trust,5,Major A&E (Type 1)
+114,RJR,Countess Of Chester Hospital Nhs Foundation Trust,5,Major A&E (Type 1)
+115,RJZ,King'S College Hospital Nhs Foundation Trust,2,Major A&E (Type 1)
+116,RK5,Sherwood Forest Hospitals Nhs Foundation Trust,3,Major A&E (Type 1)
+117,RK9,University Hospitals Plymouth Nhs Trust,7,Major A&E (Type 1)
+118,RKB,University Hospitals Coventry And Warwickshire Nhs Trust,3,Major A&E (Type 1)
+119,RKE,Whittington Health Nhs Trust,2,Major A&E (Type 1)
+120,RL1,The Robert Jones And Agnes Hunt Orthopaedic Hospital Nhs Foundation Trust,3,UTC / Other A&E
+121,RL4,The Royal Wolverhampton Nhs Trust,3,Major A&E (Type 1)
+122,RLQ,Wye Valley Nhs Trust,3,Major A&E (Type 1)
+123,RLT,George Eliot Hospital Nhs Trust,3,Major A&E (Type 1)
+124,RM1,Norfolk And Norwich University Hospitals Nhs Foundation Trust,1,Major A&E (Type 1)
+125,RM3,Northern Care Alliance Nhs Foundation Trust,5,Major A&E (Type 1)
+126,RMC,Bolton Nhs Foundation Trust,5,Major A&E (Type 1)
+127,RMP,Tameside And Glossop Integrated Care Nhs Foundation Trust,5,Major A&E (Type 1)
+128,RN3,Great Western Hospitals Nhs Foundation Trust,7,Major A&E (Type 1)
+129,RN5,Hampshire Hospitals Nhs Foundation Trust,6,Major A&E (Type 1)
+130,RN7,Dartford And Gravesham Nhs Trust,6,Major A&E (Type 1)
+131,RNA,The Dudley Group Nhs Foundation Trust,3,Major A&E (Type 1)
+132,RNN,North Cumbria Integrated Care Nhs Foundation Trust,4,Major A&E (Type 1)
+133,RNQ,Kettering General Hospital Nhs Foundation Trust,3,Major A&E (Type 1)
+134,RNS,Northampton General Hospital Nhs Trust,3,Major A&E (Type 1)
+135,RNU,Oxford Health Nhs Foundation Trust,6,UTC / Other A&E
+136,RNZ,Salisbury Nhs Foundation Trust,7,Major A&E (Type 1)
+137,RP5,Doncaster And Bassetlaw Teaching Hospitals Nhs Foundation Trust,4,Major A&E (Type 1)
+138,RP6,Moorfields Eye Hospital Nhs Foundation Trust,2,UTC / Other A&E
+139,RPA,Medway Nhs Foundation Trust,6,Major A&E (Type 1)
+140,RPC,Queen Victoria Hospital Nhs Foundation Trust,6,UTC / Other A&E
+141,RQ3,Birmingham Women'S And Children'S Nhs Foundation Trust,3,Major A&E (Type 1)
+142,RQM,Chelsea And Westminster Hospital Nhs Foundation Trust,2,Major A&E (Type 1)
+143,RQW,The Princess Alexandra Hospital Nhs Trust,1,Major A&E (Type 1)
+144,RQX,Homerton Healthcare Nhs Foundation Trust,2,Major A&E (Type 1)
+145,RR7,Gateshead Health Nhs Foundation Trust,4,Major A&E (Type 1)
+146,RR8,Leeds Teaching Hospitals Nhs Trust,4,Major A&E (Type 1)
+147,RRF,"Wrightington, Wigan And Leigh Nhs Foundation Trust",5,Major A&E (Type 1)
+148,RRK,University Hospitals Birmingham Nhs Foundation Trust,3,Major A&E (Type 1)
+149,RRV,University College London Hospitals Nhs Foundation Trust,2,Major A&E (Type 1)
+150,RTD,The Newcastle Upon Tyne Hospitals Nhs Foundation Trust,4,Major A&E (Type 1)
+151,RTE,Gloucestershire Hospitals Nhs Foundation Trust,7,Major A&E (Type 1)
+152,RTF,Northumbria Healthcare Nhs Foundation Trust,4,Major A&E (Type 1)
+153,RTG,University Hospitals Of Derby And Burton Nhs Foundation Trust,3,Major A&E (Type 1)
+154,RTH,Oxford University Hospitals Nhs Foundation Trust,6,Major A&E (Type 1)
+155,RTK,Ashford And St Peter'S Hospitals Nhs Foundation Trust,6,Major A&E (Type 1)
+156,RTP,Surrey And Sussex Healthcare Nhs Trust,6,Major A&E (Type 1)
+157,RTQ,Gloucestershire Health And Care Nhs Foundation Trust,7,UTC / Other A&E
+158,RTR,South Tees Hospitals Nhs Foundation Trust,4,Major A&E (Type 1)
+159,RTX,University Hospitals Of Morecambe Bay Nhs Foundation Trust,5,Major A&E (Type 1)
+160,RV9,Humber Teaching Nhs Foundation Trust,4,UTC / Other A&E
+161,RVJ,North Bristol Nhs Trust,7,Major A&E (Type 1)
+162,RVR,Epsom And St Helier University Hospitals Nhs Trust,2,Major A&E (Type 1)
+163,RVV,East Kent Hospitals University Nhs Foundation Trust,6,Major A&E (Type 1)
+164,RVW,North Tees And Hartlepool Nhs Foundation Trust,4,Major A&E (Type 1)
+165,RVY,Southport And Ormskirk Hospital Nhs Trust,5,Major A&E (Type 1)
+166,RW1,Southern Health Nhs Foundation Trust,6,UTC / Other A&E
+167,RW4,Mersey Care Nhs Foundation Trust,5,UTC / Other A&E
+168,RWA,Hull University Teaching Hospitals Nhs Trust,4,Major A&E (Type 1)
+169,RWD,United Lincolnshire Hospitals Nhs Trust,3,Major A&E (Type 1)
+170,RWE,University Hospitals Of Leicester Nhs Trust,3,Major A&E (Type 1)
+171,RWF,Maidstone And Tunbridge Wells Nhs Trust,6,Major A&E (Type 1)
+172,RWG,West Hertfordshire Teaching Hospitals Nhs Trust,1,Major A&E (Type 1)
+173,RWH,East And North Hertfordshire Nhs Trust,1,Major A&E (Type 1)
+174,RWJ,Stockport Nhs Foundation Trust,5,Major A&E (Type 1)
+175,RWP,Worcestershire Acute Hospitals Nhs Trust,3,Major A&E (Type 1)
+176,RWW,Warrington And Halton Teaching Hospitals Nhs Foundation Trust,5,Major A&E (Type 1)
+177,RWX,Berkshire Healthcare Nhs Foundation Trust,6,UTC / Other A&E
+178,RWY,Calderdale And Huddersfield Nhs Foundation Trust,4,Major A&E (Type 1)
+179,RX1,Nottingham University Hospitals Nhs Trust,3,Major A&E (Type 1)
+180,RXC,East Sussex Healthcare Nhs Trust,6,Major A&E (Type 1)
+181,RXF,Mid Yorkshire Teaching Nhs Trust,4,Major A&E (Type 1)
+182,RXG,South West Yorkshire Partnership Nhs Foundation Trust,4,UTC / Other A&E
+183,RXK,Sandwell And West Birmingham Hospitals Nhs Trust,3,Major A&E (Type 1)
+184,RXL,Blackpool Teaching Hospitals Nhs Foundation Trust,5,Major A&E (Type 1)
+185,RXN,Lancashire Teaching Hospitals Nhs Foundation Trust,5,Major A&E (Type 1)
+186,RXP,County Durham And Darlington Nhs Foundation Trust,4,Major A&E (Type 1)
+187,RXQ,Buckinghamshire Healthcare Nhs Trust,6,Major A&E (Type 1)
+188,RXR,East Lancashire Hospitals Nhs Trust,5,Major A&E (Type 1)
+189,RXW,The Shrewsbury And Telford Hospital Nhs Trust,3,Major A&E (Type 1)
+190,RY2,Bridgewater Community Healthcare Nhs Foundation Trust,5,UTC / Other A&E
+191,RY4,Hertfordshire Community Nhs Trust,1,UTC / Other A&E
+192,RY5,Lincolnshire Community Health Services Nhs Trust,3,UTC / Other A&E
+193,RY7,Wirral Community Health And Care Nhs Foundation Trust,5,UTC / Other A&E
+194,RY8,Derbyshire Community Health Services Nhs Foundation Trust,3,UTC / Other A&E
+195,RY9,Hounslow And Richmond Community Healthcare Nhs Trust,2,UTC / Other A&E
+196,RYF,South Western Ambulance Service Nhs Foundation Trust,7,UTC / Other A&E
+197,RYG,Coventry And Warwickshire Partnership Nhs Trust,3,UTC / Other A&E
+198,RYJ,Imperial College Healthcare Nhs Trust,2,Major A&E (Type 1)
+199,RYR,University Hospitals Sussex Nhs Foundation Trust,6,Major A&E (Type 1)
+200,RYX,Central London Community Healthcare Nhs Trust,2,UTC / Other A&E
+201,RYY,Kent Community Health Nhs Foundation Trust,6,UTC / Other A&E
+202,Y00751,East Berks Primary Care Ooh(Wam),6,UTC / Other A&E
+203,Y02147,Urgent Care Centre (Qms),2,UTC / Other A&E
+204,Y02428,Putnoe Walk In Centre,1,UTC / Other A&E
+205,Y02532,Miriam Minor Emergency,5,UTC / Other A&E
+206,Y02615,South Birmingham Gp Walk In Centre,3,UTC / Other A&E
+207,Y02676,Brighton Station Health Centre,6,UTC / Other A&E
+208,Y03007,Erdington Gp Health & Wellbeing Wic,3,UTC / Other A&E
+209,Y03051,Hastings Med P & Walkin,6,UTC / Other A&E
+210,Y03218,The Pinn Unregistered Wic,2,UTC / Other A&E
+211,Y03571,Corby Urgent Care Centre,3,UTC / Other A&E
+212,Y04538,Bracknell Urgent Care Centre Wic,6,UTC / Other A&E
+213,Y07709,Reading Urgent Care Centre,6,UTC / Other A&E
